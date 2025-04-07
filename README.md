@@ -22,7 +22,35 @@ The *C++* folder contains programs written in the C++ language. These programs a
 - *Fibonacci Series*: A program that generates the Fibonacci series using C++.
 - *Leap Year Checker*: A program that checks if a given year is a leap year.
 - *Simple Calculator*: A C++ calculator program that performs basic arithmetic operations.
+- *Calculate Electricity Bill*  
+     - This program calculates the electricity bill based on the following criteria:
+     - *Up to 100 units*: ₹5 per unit.
+     - *101 to 300 units*: ₹7 per unit.
+     - *Above 300 units*: ₹10 per unit.
+     - The program will display the total bill based on the units entered by the user.
 
+- *Check Character Type (Uppercase, Lowercase, or Special Symbol)*  
+   - This program checks whether the entered character is an uppercase letter, a lowercase letter, or a special symbol.
+
+- *Find Largest of 3 Numbers*  
+   - This program takes three numbers as input and checks which one is the largest among them.
+
+- *Determine Grade*  
+   - This program determines the grade of a student based on their marks:
+     - *Marks ≥ 90*: Grade A.
+     - *Marks ≥ 80*: Grade B.
+     - *Marks ≥ 70*: Grade C.
+     - *Marks ≥ 60*: Grade D.
+     - *Otherwise*: Fail.
+
+- *Check Eligibility for Voting*  
+   - This program checks if a person is eligible to vote based on their age. The legal voting age is 18, so the program will check if the person’s age is 18 or above.
+
+- *Vowel Checker*  
+   - This program checks if the entered character is a vowel (A, E, I, O, U). It takes a single character input and determines if it's a vowel or not.
+
+- *Positive, Negative, or Zero Number Checker*  
+   - This program checks if a number entered by the user is positive, negative, or zero. It evaluates the number and outputs whether it's positive, negative, or zero based on the input.
 ## How to Use
 1. Clone this repository to your local machine.
 2. Navigate to the folder of the language (C or C++).
