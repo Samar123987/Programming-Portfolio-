@@ -1,4 +1,4 @@
-// Write a program that asks the user to enter marks and determines the grade using multiple if-else:
+
 // • Marks ≥ 90: Grade A
 // • Marks ≥ 80: Grade B
 // • Marks ≥ 70: Grade C
